@@ -30,3 +30,5 @@ npm-debug.log
 /obj/Debug
 /bin
 /*.bat
+#personal ignore
+/*.code-workspace
